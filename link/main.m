@@ -160,5 +160,6 @@ int main(int argc, const char * argv[]) {
     printfNode(node);
     node = clearNode(node);
     nodeLength(node);
+    printf("链表");
     return 0;
 }
